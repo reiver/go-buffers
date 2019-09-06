@@ -1,5 +1,8 @@
 package buffers
 
+// Writer provides an io.Writer interface to a byte array, and byte slice.
+//
+// This is something that should probably exist in the Go built-in "bytes" library, but doesn't.
 type Writer struct {
 	dst []byte
 	index int
