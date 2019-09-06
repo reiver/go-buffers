@@ -292,7 +292,7 @@ func TestWriterSingleWrite(t *testing.T) {
 
 		var buffer []byte = make([]byte, test.BufferLength)
 
-		var dst buffers.Writer = buffers.NewWriter(buffer)
+		var dst *buffers.Writer = buffers.NewWriter(buffer)
 
 		n, err := dst.Write(test.Src)
 		if _, casted := err.(buffers.TooShort); !casted {
@@ -857,7 +857,7 @@ func TestWriterMultipleWrites(t *testing.T) {
 
 		var buffer []byte = make([]byte, test.BufferLength)
 
-		var dst buffers.Writer = buffers.NewWriter(buffer)
+		var dst *buffers.Writer = buffers.NewWriter(buffer)
 
 		var sum int
 

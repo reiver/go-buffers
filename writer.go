@@ -8,8 +8,8 @@ type Writer struct {
 	index int
 }
 
-func NewWriter(dst []byte) Writer {
-	return Writer{
+func NewWriter(dst []byte) *Writer {
+	return &Writer{
 		dst:dst,
 	}
 }
