@@ -1,7 +1,7 @@
 package buffers
 
 import (
-	"github.com/reiver/go-opt"
+	"sourcecode.social/reiver/go-opt"
 	"github.com/reiver/go-utf8"
 
 	"io"
