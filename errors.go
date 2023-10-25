@@ -1,16 +1,16 @@
 package buffers
 
 import (
-	"github.com/reiver/go-fck"
+	"sourcecode.social/reiver/go-erorr"
 )
 
 var (
-	BufferOverflow = fck.Error("buffer overflow")
+	BufferOverflow = erorr.Error("buffer overflow")
 )
 
 var (
-	errNilDestination = fck.Error("nil destination")
-	errNilReader      = fck.Error("nil reader")
-	errNilReceiver    = fck.Error("nil receiver")
-	errShortWrite     = fck.Error("short write")
+	errNilDestination = erorr.Error("nil destination")
+	errNilReader      = erorr.Error("nil reader")
+	errNilReceiver    = erorr.Error("nil receiver")
+	errShortWrite     = erorr.Error("short write")
 )
