@@ -1,6 +1,6 @@
-github.com/reiver/go-utf8 v2.0.1+incompatible h1:f1rRbwTIcUaX+1wnLM1+FWelKegAxTURE9MkZCRVOPM=
-github.com/reiver/go-utf8 v2.0.1+incompatible/go.mod h1:tfGntNDUeEZIAsz0mTu0lF7/IlErc+BpQgO6yxYmJig=
 sourcecode.social/reiver/go-erorr v0.0.0-20230922202459-231149d185a1 h1:wpnz4JicQBLWrgGphYBls7DysIFCcnWgDz/vce/sY8E=
 sourcecode.social/reiver/go-erorr v0.0.0-20230922202459-231149d185a1/go.mod h1:NFtd7fzEf0r6A6R7JXYZfayRhPaJy0zt/18VWoLzrxA=
 sourcecode.social/reiver/go-opt v0.0.0-20230928102119-1f1dfca71dc8 h1:9Y+ZZCOU+vCuFq/WP5yjJNp7OedQkdAw1U5OVdX46Mo=
 sourcecode.social/reiver/go-opt v0.0.0-20230928102119-1f1dfca71dc8/go.mod h1:O6WKM2UcKkheRT/dA6A2b1tW0m+WenSbxdcXE+idxzI=
+sourcecode.social/reiver/go-utf8 v0.0.0-20230818133704-d38de8eb477f h1:fVoIT3wG97EMKMDpR5KU4b5uwFKLl5e9AOV72o45M0k=
+sourcecode.social/reiver/go-utf8 v0.0.0-20230818133704-d38de8eb477f/go.mod h1:xZZIkdX6xIkkzalD1YTiM1F3Os9xPaIY7z9s6EBDmCI=

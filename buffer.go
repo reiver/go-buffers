@@ -2,7 +2,7 @@ package buffers
 
 import (
 	"sourcecode.social/reiver/go-opt"
-	"github.com/reiver/go-utf8"
+	"sourcecode.social/reiver/go-utf8"
 
 	"io"
 	"unsafe"
