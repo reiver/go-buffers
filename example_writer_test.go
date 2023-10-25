@@ -1,7 +1,7 @@
 package buffers_test
 
 import (
-	"github.com/reiver/go-buffers"
+	"sourcecode.social/reiver/go-buffers"
 
 	"fmt"
 )

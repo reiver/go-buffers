@@ -4,13 +4,13 @@ Package **buffers** provides tools for working with byte array, and byte slice b
 
 ## Documention
 
-Online documentation, which includes examples, can be found at: http://godoc.org/github.com/reiver/go-buffers
+Online documentation, which includes examples, can be found at: http://godoc.org/sourcecode.social/reiver/go-buffers
 
-[![GoDoc](https://godoc.org/github.com/reiver/go-buffers?status.svg)](https://godoc.org/github.com/reiver/go-buffers)
+[![GoDoc](https://godoc.org/sourcecode.social/reiver/go-buffers?status.svg)](https://godoc.org/sourcecode.social/reiver/go-buffers)
 
 ## Example
 ```go
-import "github.com/reiver/go-buffers"
+import "sourcecode.social/reiver/go-buffers"
 
 // ...
 

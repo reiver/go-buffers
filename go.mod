@@ -1,4 +1,4 @@
-module github.com/reiver/go-buffers
+module sourcecode.social/reiver/go-buffers
 
 go 1.18
 

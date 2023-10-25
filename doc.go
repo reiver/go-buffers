@@ -5,7 +5,7 @@ Example
 
 Here is an example of buffers.Writer being used to provide a io.Writer interface to an byte array, and byte slice:
 
-	import "github.com/reiver/go-buffers"
+	import "sourcecode.social/reiver/go-buffers"
 	
 	// ...
 	
