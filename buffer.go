@@ -1,11 +1,11 @@
 package buffers
 
 import (
-	"sourcecode.social/reiver/go-opt"
-	"sourcecode.social/reiver/go-utf8"
-
 	"io"
 	"unsafe"
+
+	"sourcecode.social/reiver/go-opt"
+	"sourcecode.social/reiver/go-utf8"
 )
 
 // A Buffer is used to store a series of bytes.

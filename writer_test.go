@@ -1,11 +1,11 @@
 package buffers_test
 
 import (
-	"sourcecode.social/reiver/go-buffers"
+	"testing"
 
 	"reflect"
 
-	"testing"
+	"sourcecode.social/reiver/go-buffers"
 )
 
 func TestWriterSingleWrite(t *testing.T) {

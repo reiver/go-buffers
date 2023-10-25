@@ -1,9 +1,9 @@
 package buffers_test
 
 import (
-	"sourcecode.social/reiver/go-buffers"
-
 	"fmt"
+
+	"sourcecode.social/reiver/go-buffers"
 )
 
 func ExampleWriter() {

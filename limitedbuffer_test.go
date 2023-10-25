@@ -1,9 +1,9 @@
 package buffers_test
 
 import (
-	"sourcecode.social/reiver/go-buffers"
-
 	"testing"
+
+	"sourcecode.social/reiver/go-buffers"
 )
 
 func TestLimitedBuffer_oneByteAtATime(t *testing.T) {
