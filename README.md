@@ -1,6 +1,6 @@
 # go-buffers
 
-Package **buffers** provides tools for working with byte array, and byte slice buffers.
+Package **buffers** provides tools for working with byte array, and byte slice buffers, for the Go programming language.
 
 ## Documention
 
